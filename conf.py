@@ -83,7 +83,7 @@ html_theme = 'alabaster'
 #
 html_theme_options = {
     'github_user': 'pyladies-vancouver',
-    'github_repo': 'pyladies-vancouver.github.io',
+    'github_repo': 'pyladies-vancouver-online',
     'github_banner': True
 }
 
