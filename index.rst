@@ -61,4 +61,5 @@ Resources
    talks
    workshops
    sponsor
+   readme
 
