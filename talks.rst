@@ -10,6 +10,15 @@ and we'll get back to you.
 
 You can also `suggest <https://goo.gl/forms/t6RlnipKoDMjqpnH3>`_ a talk topic.
 
+October 24, 2018
+----------------
+
+- `The Serverless Birdnest <https://docs.google.com/presentation/d/1GhymBsuPMVDl_4mB6vDxqTbgD3lCPgFStqa9jef61vA/edit?usp=sharing>`_, Tay Frost
+
+- `The Mood Machine - Building an Emotion Detection system in Python <https://speakerdeck.com/sinbycos/pyladiesvan>`_, Tanushri Chakravorty
+
+- `Open source in Science: How contributability, transparency, and other open source practices can revolutionize scientific research <https://github.com/lisancao/Open-Source-in-Science>`_, Lisa N. Cao
+
 Feb 14, 2018
 ------------
 
@@ -33,7 +42,7 @@ April 26, 2017
 
 - `F-strings <https://docs.google.com/presentation/d/1wySloDuKt7di8SYZB2bjOm1Pw5ihxSHRM-mHrkzEnfM/edit?usp=sharing>`_, Mariatta Wijaya
 
-- VCR.py, Holly Becker
+- `VCR.py <https://docs.google.com/presentation/d/1IHhezoU9L6Y_--O8TVjQqCkWs-BveCBtgPzymi3dfMg/edit?usp=sharing>`_, Holly Becker
 
 - How to build a self-driving mouse, Kiri Nichols
 
@@ -66,6 +75,17 @@ March 7, 2016
 - Simulating stochastic systems, Quentin Caudron
 
 - Neural networks are (usually) amazing!, Kiri Nichols
+
+November 19, 2015
+-----------------
+
+- Recruiting women in the software industry, Angela Bortolussi
+
+- machine learning with python: sklearn, Kiri Nichols
+
+- Recurse Center Review, Caroline Liu
+
+- `Python Implementations <https://docs.google.com/presentation/d/1Tec9Xuw-unYWXvaacjt_uhJKKBn6P07ABiZc8Cs3h90/edit?usp=sharing>`_, Snakes all the way down, Holly Becker
 
 September 10, 2015
 ------------------
